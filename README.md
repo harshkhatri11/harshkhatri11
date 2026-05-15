@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harshkhatri.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harsh-khatri.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshk11)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkhatri62@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=harshkhatri11&style=for-the-badge&color=2563eb)](https://github.com/harshkhatri11)
@@ -100,4 +100,4 @@ interesting, let's talk.
 
 📧 harshkhatri62@gmail.com
 💼 [linkedin.com/in/harshk11](https://linkedin.com/in/harshk11)
-🌐 [harshkhatri.dev](https://harshkhatri.dev)
+🌐 [harshkhatri.dev](https://harsh-khatri.netlify.app/)

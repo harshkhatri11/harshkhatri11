@@ -1,73 +1,103 @@
-<h1 align="center">Hi 👋, I'm Harsh Khatri</h1>
-<h3 align="center">Full-Stack Developer | Angular | Spring Boot | Java Backend Developer</h3>
-
-<p align="center">
-  <a href="https://harsh-khatri.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Crafting+scalable+APIs;Writing+clean+Java+%26+Angular+code" alt="Typing SVG" />
-</p>
-
-## 🚀 About Me
-
-- **Full-Stack Developer** with extensive experience in building modern, scalable web applications using **Angular** (Frontend) and **Spring Boot** (Backend).
-- Expertise in **creating responsive and dynamic UIs** with **Angular** and **crafting RESTful APIs** and microservices with **Spring Boot**.
-- Skilled in **seamless integration of frontend with backend**, ensuring smooth data flow between **Angular** and **PostgreSQL**.
-- Strong understanding of **clean architecture**, following **best practices**, **Agile methodology**, and **secure coding standards** to deliver high-quality software.
-- Passionate about building **user-centric applications**, focusing on **performance optimization** and **maintainability** across the entire stack.
-
-
-## 🧰 Tech Stack
-
-### 🖼️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts,bootstrap,tailwind" alt="Frontend Stack" />
-</p>
-
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring" alt="Backend Stack" />
-</p>
-
-### 🗃️ Database & ORMs
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
-
-### 🛠️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" alt="Tools" />
-  <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-</p>
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkhatri11&show_icons=true&theme=tokyonight" alt="Harsh's GitHub Stats" height="300" width="45%"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhatri11&layout=compact&theme=tokyonight" alt="Top Languages" height="300" width="45%"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+5%2B+Years;Spring+Boot+%7C+Kafka+%7C+Redis+%7C+Angular;Building+distributed+systems+in+production" alt="Typing SVG" />
 </div>
 
-## 🌐 Connect with Me
+<br/>
 
-<p align="center">
-  <a href="mailto:harshkhatri62@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/harshkhatri11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshk11/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harshkhatri.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshk11)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkhatri62@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=harshkhatri11&style=for-the-badge&color=2563eb)](https://github.com/harshkhatri11)
+
+</div>
+
+## Hey, I'm Harsh 👋
+
+Full-stack engineer with **5+ years** building systems that actually hold up in production —
+event-driven backends, observable infrastructure, and Angular UIs that scale.
+
+Currently @ TCS — shipped analytics dashboards to **5,000+ field employees** and contributed
+to a national investment portal used by **140+ Fortune 500 companies** including BMW, Samsung,
+and Siemens.
+
+I care about the stuff most engineers skip — distributed tracing, cache invalidation,
+dead-letter queues, and knowing exactly why your service slowed down at 3pm on a Tuesday.
 
 
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshkhatri11&label=Profile%20views&color=0e75b6&style=flat" alt="harshkhatri11" />
-</p>
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Databases & Cache**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Observability**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Zipkin](https://img.shields.io/badge/Zipkin-FE7139?style=for-the-badge&logo=openzipkin&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**DevOps & Testing**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=java&logoColor=white)
+
+
+## 🚀 What I've Shipped
+
+### 📊 Real-Time Analytics Dashboard
+Full-stack platform built for **5,000+ field employees** across India. Designed
+Spring Boot APIs and Angular UIs to surface real-time sales performance, regional
+set-top box trends, and rep-level throughput — giving territory managers live
+visibility into their numbers.
+
+`Spring Boot` `Angular` `PostgreSQL` `Redis` `ngx-charts` `Docker`
+
+### 🏛️ Tamil Nadu Single Window Portal
+Contributed to rebuilding [investingintamilnadu.com](https://investingintamilnadu.com)
+— a national government investment platform recording **104M+ visits**, actively
+used by **140+ Fortune 500 companies** including BMW, Samsung, and Siemens to
+set up operations in India.
+
+`Angular` `Spring Boot` `JavaScript` `REST APIs` `Bootstrap`
+
+
+### ⚡ Enterprise HRMS Platform
+End-to-end HRMS covering employee records, attendance, payroll, and org hierarchy
+for enterprise scale. Designed the full data layer, built Kafka pipelines for async
+workflows, and cut report load times by **80%** with a targeted Redis caching layer.
+Kept the whole thing observable with Grafana, Prometheus, Loki, and Zipkin.
+
+`Spring Boot` `Kafka` `RabbitMQ` `Redis` `PostgreSQL` `Grafana` `Prometheus` `Docker`
+
+## 📬 Let's Connect
+
+I'm open to **backend-heavy full-stack and distributed systems roles** pan India
+— product companies, startups, fintech, HRtech, SaaS. If you're building something
+interesting, let's talk.
+
+📧 harshkhatri62@gmail.com
+💼 [linkedin.com/in/harshk11](https://linkedin.com/in/harshk11)
+🌐 [harshkhatri.dev](https://harshkhatri.dev)
